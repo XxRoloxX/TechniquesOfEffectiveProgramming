@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TechnikiEfektywnegoProgramowania5_C17",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TechnikiEfektywnegoProgramowania5_C17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TechnikiEfektywnegoProgramowania5_C17-Debug-36edf19309d26d2f74ad.json",
+					"name" : "TechnikiEfektywnegoProgramowania5_C17",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/wieslaw/Kursy/Techniki Efektywnego Programowania Laboratoria/TechnikiEfektywnegoProgramowania5_C17/cmake-build-debug",
+		"source" : "/home/wieslaw/Kursy/Techniki Efektywnego Programowania Laboratoria/TechnikiEfektywnegoProgramowania5_C17"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

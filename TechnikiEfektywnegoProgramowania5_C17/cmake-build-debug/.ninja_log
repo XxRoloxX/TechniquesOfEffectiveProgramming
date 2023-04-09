@@ -1,0 +1,8 @@
+# ninja log v5
+379	447	1671187730598057485	TechnikiEfektywnegoProgramowania5_C17	fc3ddbd9191bdf82
+2	27	1670682975771582088	CMakeFiles/TechnikiEfektywnegoProgramowania5_C17.dir/CRefCounter.cpp.o	8b937dc06525d700
+0	282	1670684343543223255	CMakeFiles/TechnikiEfektywnegoProgramowania5_C17.dir/CTab.cpp.o	4ef66a1544018ff3
+1	396	1671187511657935528	CMakeFiles/TechnikiEfektywnegoProgramowania5_C17.dir/CSmartPointerMS.cpp.o	f6ee918dfabc2007
+1	379	1671187730530053717	CMakeFiles/TechnikiEfektywnegoProgramowania5_C17.dir/main.cpp.o	6bf2a53c489dca9f
+1	312	1671110668774698524	CMakeFiles/TechnikiEfektywnegoProgramowania5_C17.dir/CTabMS.cpp.o	a95ae4ea3e3a99df
+2	342	1671187730494051723	CMakeFiles/TechnikiEfektywnegoProgramowania5_C17.dir/CMySmartPointer.cpp.o	384335500fe5e999

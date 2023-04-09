@@ -1,0 +1,3 @@
+/home/donkey2/CLionProjects/TEP_Laboratoria1/cmake-build-debug/CMakeFiles/TEP_Laboratoria1.dir
+/home/donkey2/CLionProjects/TEP_Laboratoria1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/donkey2/CLionProjects/TEP_Laboratoria1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

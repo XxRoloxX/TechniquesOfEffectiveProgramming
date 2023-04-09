@@ -1,0 +1,7 @@
+# ninja log v5
+1	146	1666377256878258446	CMakeFiles/TEP_Laboratoria1.dir/main.cpp.o	f82618376aae2a9e
+1	15	1666377256746257702	CMakeFiles/TEP_Laboratoria1.dir/test.cpp.o	eba7f5463ba623e
+1	130	1666377605577277092	CMakeFiles/TEP_Laboratoria1.dir/C_table.cpp.o	36479fc6cc46363c
+1	144	1666377605589277787	CMakeFiles/TEP_Laboratoria1.dir/allocation_modification_functions_and_constants.cpp.o	49176794a98c27f5
+0	152	1666377605597278250	CMakeFiles/TEP_Laboratoria1.dir/main.cpp.o	f82618376aae2a9e
+152	217	1666377605661281955	TEP_Laboratoria1	b5a05e16285b24da

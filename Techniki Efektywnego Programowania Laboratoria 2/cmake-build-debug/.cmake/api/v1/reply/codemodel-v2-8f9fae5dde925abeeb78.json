@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Techniki_Efektywnego_Programowania_Laboratoria_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Techniki_Efektywnego_Programowania_Laboratoria_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Techniki_Efektywnego_Programowania_Laboratoria_2-Debug-1351febd3bd2efd8f4be.json",
+					"name" : "Techniki_Efektywnego_Programowania_Laboratoria_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/donkey2/Kursy/Techniki Efektywnego Programowania Laboratoria/Techniki Efektywnego Programowania Laboratoria 2 git/Techniki Efektywnego Programowania Laboratoria 2/cmake-build-debug",
+		"source" : "/home/donkey2/Kursy/Techniki Efektywnego Programowania Laboratoria/Techniki Efektywnego Programowania Laboratoria 2 git/Techniki Efektywnego Programowania Laboratoria 2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

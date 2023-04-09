@@ -1,0 +1,3 @@
+/home/wieslaw/Kursy/Techniki Efektywnego Programowania Laboratoria/TechnikiEfektywnegoProgramowania5_C17/cmake-build-debug/CMakeFiles/TechnikiEfektywnegoProgramowania5_C17.dir
+/home/wieslaw/Kursy/Techniki Efektywnego Programowania Laboratoria/TechnikiEfektywnegoProgramowania5_C17/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/wieslaw/Kursy/Techniki Efektywnego Programowania Laboratoria/TechnikiEfektywnegoProgramowania5_C17/cmake-build-debug/CMakeFiles/rebuild_cache.dir
